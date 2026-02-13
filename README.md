@@ -1,4 +1,4 @@
-# 🏦 Enterprise AI System — Bank Customer Churn Prediction
+# 🏦 AI System — Bank Customer Churn Prediction
 ### Production-Grade Deep Learning Modeling & Analytics Framework
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
